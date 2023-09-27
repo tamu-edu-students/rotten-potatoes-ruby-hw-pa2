@@ -1,4 +1,4 @@
 Student Name: Vishnuvasan Raghuraman
 UIN: 234009303
-GitHub Repository Link: 
+GitHub Repository Link: https://github.com/tamu-edu-students/rotten-potatoes-ruby-hw-pa2/
 Heroku Deployment Link: https://pa2-rottenpotatoes-411b66a10a76.herokuapp.com/movies
